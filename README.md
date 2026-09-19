@@ -4,8 +4,8 @@ This repository contains my Deep Learning course assignments, covering fundament
 
 The assignments were implemented using Python and Jupyter/Google Colab, with experiments, model training, evaluation, and visualization included in the notebooks.
 
-📚 Assignments
-1️⃣ Assignment 1 — MLP, CNN & Optimization
+
+# 1 — MLP, CNN & Optimization
 
 📓 Notebook: assignment1(mlp_cnn_optimizer).ipynb
 
@@ -23,7 +23,7 @@ Loss functions
 Optimization algorithms
 Model training and evaluation
 Performance visualization
-2️⃣ Assignment 2 — Transfer Learning & Data Augmentation
+# Transfer Learning & Data Augmentation
 
 📓 Notebook: asssignment2(transfer_learning_data_augmentation).ipynb
 
@@ -40,7 +40,7 @@ Image preprocessing
 Training and validation
 Model evaluation
 Performance comparison
-3️⃣ Assignment 3 — RNN & LSTM
+# RNN & LSTM
 
 📓 Notebook: Assignment_3_(RNN_LSTM).ipynb
 
@@ -56,7 +56,8 @@ Sequence modeling
 Training recurrent networks
 Model evaluation
 Visualization of training performance
-4️⃣ RBM Assignment — Restricted Boltzmann Machine
+
+# Restricted Boltzmann Machine
 
 📓 Notebook: RBM_assignment.ipynb
 
