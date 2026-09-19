@@ -5,7 +5,7 @@ This repository contains my Deep Learning course assignments, covering fundament
 The assignments were implemented using Python and Jupyter/Google Colab, with experiments, model training, evaluation, and visualization included in the notebooks.
 
 
-# 1 — MLP, CNN & Optimization
+#  MLP, CNN & Optimization
 
 📓 Notebook: assignment1(mlp_cnn_optimizer).ipynb
 
@@ -73,15 +73,4 @@ Contrastive Divergence
 Feature learning
 Unsupervised learning
 Model training and reconstruction
-🗂️ Repository Structure
-deep-learning/
-│
-├── assignment1(mlp_cnn_optimizer).ipynb
-│
-├── asssignment2(transfer_learning_data_augmentation).ipynb
-│
-├── Assignment_3_(RNN_LSTM).ipynb
-│
-├── RBM_assignment.ipynb
-│
-└── README.md
+
