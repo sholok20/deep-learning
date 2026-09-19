@@ -1,4 +1,4 @@
-# Deep Learning Assignments :
+# Deep Learning Assignments 
 
 This repository contains my Deep Learning course assignments, covering fundamental and advanced concepts including MLPs, CNNs, optimization, transfer learning, RNNs, LSTMs, and Restricted Boltzmann Machines (RBMs).
 
